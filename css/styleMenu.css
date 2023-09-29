@@ -1,0 +1,20 @@
+
+
+a, i {
+    transition: .5s;
+    text-decoration: none;
+}
+
+header nav .row {
+
+    text-align: center;
+
+}
+
+header nav .row ul li {
+    padding-left: 2%;
+}
+
+header nav .row ul li i {
+    padding-left: 10px;
+}

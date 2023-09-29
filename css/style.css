@@ -118,6 +118,7 @@ a, i {
 }
 
 #gallery-container h1,
+#gallery-container .col-md-4,
 #gallery-container .col-md-6,
 #gallery-container .col-xs-12 {
  margin-bottom: 50px;
